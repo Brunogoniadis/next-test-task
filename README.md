@@ -1,12 +1,6 @@
-# 🚀 Teste Técnico – Vaga Part-Time
 
-Olá, desenvolvedor(a)! Seja bem-vindo(a) ao repositório vazio que servirá como base para o seu teste. A ideia é que você faça um **fork** deste repositório e implemente as funcionalidades descritas abaixo, mantendo o código final no seu fork.
-
----
 
 ## ✨ Visão Geral
-
-Você deverá desenvolver o projeto utilizando:
 
 - **Next.js**  
 - **TypeScript**  
@@ -14,11 +8,9 @@ Você deverá desenvolver o projeto utilizando:
 - **Prisma**  
 - **shadcn**  
 
-No final, seu projeto deve ficar **no seu fork** e ser **implantado na Vercel**.
-
 ---
 
-## 📝 O que deve ser desenvolvido
+## 📝 Requisitos
 
 1. **Tabela de Gerenciamento de Tarefas**  
    - Título, descrição e status (ex.: “A Fazer”, “Em Andamento” ou “Concluída”).  
@@ -40,7 +32,7 @@ No final, seu projeto deve ficar **no seu fork** e ser **implantado na Vercel**.
 
 ---
 
-## 🌟 Diferenciais (Opcionais)
+## 🌟 Plus
 
 - **Subtasks**: adicionar subtarefas com título e status.  
 - **Testes Automatizados**: cobertura de testes (unitários, de integração, end-to-end).  
@@ -50,30 +42,3 @@ No final, seu projeto deve ficar **no seu fork** e ser **implantado na Vercel**.
 
 ---
 
-## 🔎 Avaliação
-
-- **Qualidade do Código**: organização, clareza e boas práticas.  
-- **Estrutura do Projeto**: forma como arquivos e pastas são organizados.  
-- **UI/UX**: aparência, usabilidade, responsividade.  
-- **Domínio das Tecnologias**: uso de Next.js, TypeScript, Tailwind, Prisma e shadcn.  
-- **Tempo de Execução**: agilidade na entrega do teste.
-
----
-
-## 📦 Como Entregar
-
-1. **Fork** deste repositório.  
-2. Implemente a solução de acordo com os requisitos.  
-3. **Faça o deploy na Vercel** após finalizar o desenvolvimento.  
-4. Mantenha todo o código final **no fork**.  
-5. Inclua no `README.md` (ou em outro arquivo) instruções sobre como instalar e rodar a aplicação localmente.  
-6. **Envie** o **link do seu fork** e o **link da aplicação na Vercel** ao final.
-
----
-
-## 💡 Observações Finais
-
-- Utilize os componentes do **shadcn** para agilizar e padronizar a interface.  
-- Organize o seu código pensando em clareza e manutenção.  
-- Recursos extras ou ideias criativas são bem-vindos.  
-- **Boa sorte e bons commits!** 🚀
